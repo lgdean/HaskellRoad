@@ -1,5 +1,8 @@
 Exercises and examples _The Haskell Road to Logic, Maths, and Programming_
 Files from http://homepages.cwi.nl/~jve/HR/ , then perhaps modified by me.
 
-Probably nobody else will read this README.
+This was originally a private repo, because I didn't want to post public
+solutions to problems in a textbook.  But then I searched GitHub and found
+over 20 similar repos, so I stopped worrying about that (and stopped paying
+for private repos I don't need).  That said: if it is a problem, let me know!
 
